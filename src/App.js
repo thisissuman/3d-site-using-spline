@@ -38,7 +38,7 @@ function App() {
         <h1>Hii this is Suman</h1>
         <p>I'm a front-end developer with a passion for crafting user experiences that are both beautiful and functional. I'm a bit of a nerd, but I'm also a lot of fun. Let's build something great together!</p>
         <button>
-          <img src={laptop} alt="" /> Download My Resume
+          <img src={laptop} alt="" /> Drag the Image
         </button>
       </Content>
       <Social>
